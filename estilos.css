@@ -1,0 +1,13 @@
+.contenedor {
+  padding-top: 25px;
+  margin: auto;
+  width: 1200px;
+  height: 800px;
+}
+.menu {
+  text-align: center;
+}
+.display {
+  display: none;
+}
+
